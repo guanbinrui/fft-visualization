@@ -16,7 +16,7 @@
     "typescript": "^3.5.3"
   },
   "dependencies": {
-    "chart.js": "^2.8.0",
+    "chart.js": "^2.9.4",
     "fft-js": "0.0.12",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
